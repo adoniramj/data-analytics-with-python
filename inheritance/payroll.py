@@ -1,4 +1,4 @@
-class Payroll:
+class IPayroll:
     def print_payroll(self, employees):
         print("Payroll results")
         print("================")
