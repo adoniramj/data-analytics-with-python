@@ -1,3 +1,0 @@
-Florida,Tallahasee,FL
-Georgia,Atlanta,GA
-South Carolina,Columbia,SC
